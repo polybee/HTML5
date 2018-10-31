@@ -1,0 +1,12 @@
+.giaodien a{
+	color: pink;
+}
+.giaodien a:hover{
+	color: red;
+}
+.giaodien a:active{
+	color: black;
+}
+.giaodien a:visited{
+	color: green;
+}
