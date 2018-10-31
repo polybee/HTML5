@@ -1,8 +1,10 @@
 .giaodien a{
 	color: pink;
+	margin: 200xp;
 }
 .giaodien a:hover{
 	color: red;
+	background: blue;
 }
 .giaodien a:active{
 	color: black;
